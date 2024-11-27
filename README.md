@@ -11,7 +11,7 @@
 ---
 
 ### A Little About Me
-I am a passionate data analyst with a knack for uncovering insights and driving decisions. Outside of work, I love spending time hiking, exploring nature, and diving into new technologies. I’m also [...]
+I am a passionate data analyst who thrives on turning data into meaningful insights and driving decisions. Skilled in tools like Python, SQL, and Tableau, I enjoy solving problems and uncovering trends. Outside of work, I love hiking, traveling, exploring nature, and staying curious about emerging technologies.
 
 ---
 
