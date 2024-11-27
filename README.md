@@ -1,23 +1,36 @@
-<h1 align="center">Hi 👋, I'm Alemayehu (ALEX) Desta</h1>
-<h3 align="center">🎓 Data Analyst and Aspiring Data Scientist | Part of the 6th Cohort, MIT Emerging Talent Foundation Program</h3>
+# Hi 👋, I'm Alemayehu (ALEX) Desta
+### 🎓 Data Analyst and Aspiring Data Scientist | Part of the 6th Cohort, MIT Emerging Talent Foundation Program
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alemayehu-desta&label=Profile%20views&color=0e75b6&style=flat" alt="alemayehu-desta" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=alemayehu-desta&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 **Python, SQL,R, MySQL, PostgreSQL, IBM Cognos and Certified Tableau Desktop Specialist**
-- 📝 Visit my website [https://alemayehudesta.com/](https://alemayehudesta.com/)
-- 📝 My project portifolio https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io
-- 📫 How to reach me **alemayehu8363@gmail.com**
+- 🌱 **Skilled in Python, SQL, R, MySQL, PostgreSQL, IBM Cognos, and a Certified Tableau Desktop Specialist**
+- 📝 Visit my website: [alemayehudesta.com](https://alemayehudesta.com/)
+- 📝 Check out my project portfolio: [GitHub Portfolio](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)
+- 📫 How to reach me: **alemayehu8363@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alemayehu-desta-0085ab75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alemayehu-desta-0085ab75/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### A Little About Me
+I am a passionate data analyst with a knack for uncovering insights and driving decisions. Outside of work, I love spending time hiking, exploring nature, and diving into new technologies. I’m also dedicated to supporting underprivileged communities through education-focused volunteer work.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemayehu-desta&show_icons=true&locale=en&layout=compact" alt="alemayehu-desta" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemayehu-desta&show_icons=true&locale=en" alt="alemayehu-desta" /></p>
+### Connect with me:
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/alemayehu-desta-0085ab75/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemayehu-desta&" alt="alemayehu-desta" /></p>
+---
+
+### Languages and Tools:
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+![Microsoft SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)
+![Tableau](https://www.tableau.com/sites/default/files/pages/tableau_revised_logo.png)
+![IBM Cognos](https://upload.wikimedia.org/wikipedia/commons/5/55/IBM_Cognos_Analytics_Logo.png)
+
+---
+
+### GitHub Stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alemayehu-desta&show_icons=true&loca
