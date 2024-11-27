@@ -11,7 +11,7 @@
 ---
 
 ### A Little About Me
-I am a passionate data analyst with a knack for uncovering insights and driving decisions. Outside of work, I love spending time hiking, exploring nature, and diving into new technologies. I’m also dedicated to supporting underprivileged communities through education-focused volunteer work.
+I am a passionate data analyst with a knack for uncovering insights and driving decisions. Outside of work, I love spending time hiking, exploring nature, and diving into new technologies. I’m also [...]
 
 ---
 
@@ -21,14 +21,14 @@ I am a passionate data analyst with a knack for uncovering insights and driving 
 ---
 
 ### Languages and Tools:
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-![Microsoft SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)
-![Tableau](https://www.tableau.com/sites/default/files/pages/tableau_revised_logo.png)
-![IBM Cognos](https://upload.wikimedia.org/wikipedia/commons/5/55/IBM_Cognos_Analytics_Logo.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
+<img src="https://www.tableau.com/sites/default/files/pages/tableau_revised_logo.png" alt="Tableau" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/IBM_Cognos_Analytics_Logo.png" alt="IBM Cognos" width="50" height="50"/>
 
 ---
 
