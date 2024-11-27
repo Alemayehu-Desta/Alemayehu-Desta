@@ -10,7 +10,7 @@
 
 ---
 
-### A Little About Me
+### About Me
 I am a passionate data analyst who thrives on turning data into meaningful insights and driving decisions. Skilled in tools like Python, SQL, and Tableau, I enjoy solving problems and uncovering trends. Outside of work, I love hiking, traveling, exploring nature, and staying curious about emerging technologies.
 
 ---
