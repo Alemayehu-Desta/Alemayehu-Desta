@@ -36,4 +36,8 @@ I am a passionate data analyst with a knack for uncovering insights and driving 
 ---
 
 ### GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alemayehu-desta&show_icons=true&loca
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemayehu-desta&show_icons=true&locale=en&layout=compact" alt="alemayehu-desta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemayehu-desta&show_icons=true&locale=en" alt="alemayehu-desta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemayehu-desta&" alt="alemayehu-desta" /></p>
