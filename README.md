@@ -6,8 +6,7 @@
   **and a Certified Tableau Desktop Specialist**
 - 🎓 **Part of the 6th Cohort, MIT Emerging Talent Foundation Program**
 - 📝 Visit my website: [alemayehudesta.com](https://alemayehudesta.com)  
-- 📝 My project portfolio:  
-  [GitHub Portfolio](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)  
+- 📝 [GitHub Portfolio](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)
 - 📫 Email: [alemayehu8363@gmail.com](mailto:alemayehu8363@gmail.com)  
 - 🔗 LinkedIn: [Alemayehu Desta](https://www.linkedin.com/in/alemayehu-desta/)
 
