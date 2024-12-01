@@ -6,7 +6,8 @@
   **and a Certified Tableau Desktop Specialist**
 - 🎓 **Part of the 6th Cohort, MIT Emerging Talent Foundation Program**
 - 📝 Visit my website: [alemayehudesta.com](https://alemayehudesta.com)  
-- 📝 [GitHub Portfolio](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)  
+- 📝 My project portfolio:  
+  [GitHub Portfolio](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)  
 - 📫 Email: [alemayehu8363@gmail.com](mailto:alemayehu8363@gmail.com)  
 - 🔗 LinkedIn: [Alemayehu Desta](https://www.linkedin.com/in/alemayehu-desta/)
 
@@ -24,16 +25,11 @@ and staying curious about emerging technologies.
 
 ## Languages and Tools  
 
-### Languages and Tools
-
-<p align="left">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-</p>
-
+![Microsoft SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)  
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)  
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)  
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
+![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)
 
 ---
 
