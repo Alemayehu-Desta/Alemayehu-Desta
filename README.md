@@ -1,16 +1,14 @@
-# Hi 👋, I'm Alemayehu (ALEX) Desta
-### 🎓 Data Analyst and Aspiring Data Scientist | Part of the 6th Cohort, MIT Emerging Talent Foundation Program
+Hi 👋, I'm Alemayehu (ALEX) Desta
+🎓 Data Analyst and Aspiring Data Scientist
+Part of the 6th Cohort, MIT Emerging Talent Foundation Program
 
-![Profile Views](https://komarev.com/ghpvc/?username=alemayehu-desta&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 **Skilled in Python, SQL, R, MySQL, PostgreSQL, IBM Cognos, and a Certified Tableau Desktop Specialist**
-- 📝 Visit my website: [alemayehudesta.com](https://alemayehudesta.com/)
-- 📝 Check out my project portfolio: [GitHub Portfolio](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)
-- 📫 How to reach me: **alemayehu8363@gmail.com**
 
----
-
-### About Me
+🌱 Skilled in Python, SQL, R, MySQL, PostgreSQL, IBM Cognos, and a Certified Tableau Desktop Specialist
+📝 Visit my website: alemayehudesta.com
+📝 Check out my project portfolio: GitHub Portfolio
+📫 How to reach me: alemayehu8363@gmail.com
+About Me
 I am a passionate data analyst who thrives on turning data into meaningful insights and driving decisions. Skilled in tools like Python, SQL, and Tableau, I enjoy solving problems and uncovering trends. Outside of work, I love hiking, traveling, exploring nature, and staying curious about emerging technologies.
 
 ---
