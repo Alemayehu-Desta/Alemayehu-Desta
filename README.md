@@ -1,14 +1,6 @@
-# Hi 👋, I'm Alemayehu (ALEX) Desta
+# Hi 👋, I'm Alemayehu Desta
 
-## Data Analyst and Aspiring Data Scientist  
-
-- 🌱 **Skilled in Python, SQL, R, MySQL, PostgreSQL, IBM Cognos,**  
-  **and a Certified Tableau Desktop Specialist**
-- 🎓 **Part of the 6th Cohort, MIT Emerging Talent Foundation Program**
-- 📝 Visit my website: [alemayehudesta.com](https://alemayehudesta.com)  
-- 📝 [GitHub Portfolio](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)
-- 📫 Email: [alemayehu8363@gmail.com](mailto:alemayehu8363@gmail.com)  
-- 🔗 LinkedIn: [Alemayehu Desta](https://www.linkedin.com/in/alemayehu-desta/)
+## Data Analyst | Data Scientist in the making  
 
 ---
 
@@ -19,6 +11,23 @@ meaningful insights and driving decisions. Skilled in tools like
 Python, SQL, and Tableau, I enjoy solving problems and uncovering  
 trends. Outside of work, I love hiking, traveling, exploring nature,  
 and staying curious about emerging technologies.
+
+---
+
+### Skills
+- **Databases**:MySQL, PostgreSQL
+- **Programming**:Python,R, SQL
+- **Visualization**:[Tableau Desktop Specialist](https://www.credly.com/earner/earned/badge/d436c455-1f5a-4e5e-a8af-9f904d2ea1b2),
+, IBM Cognos
+- 🎓 **Part of the 6th Cohort, MIT Emerging Talent Foundation Program**
+- 📝 Visit my website: [alemayehudesta.com](https://alemayehudesta.com)  
+- 📝 [GitHub Portfolio](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)
+- 📫 Email: [alemayehu8363@gmail.com](mailto:alemayehu8363@gmail.com)  
+- 🔗 LinkedIn: [Alemayehu Desta](https://www.linkedin.com/in/alemayehu-desta/)
+
+---
+
+
 
 ---
 
