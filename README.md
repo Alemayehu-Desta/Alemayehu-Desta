@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alemayehu Desta  
+# Hi there👋, I'm Alemayehu Desta  
 
 ## Data Analyst | Data Scientist in the Making  
 
@@ -7,9 +7,6 @@
 I am a Data Analyst with a background in Economic Analysis.  
 Currently, I am a proud participant in the **6th Cohort of the MIT Emerging  
 Talent Foundation Program**.  
-
-I am sharpening my data science skills and am passionate about transforming  
-raw data into actionable insights and driving data-informed decisions.  
 
 When I’m not analyzing data, you’ll find me hiking, exploring nature, or  
 staying curious about emerging technologies. I also enjoy connecting with  
@@ -34,13 +31,12 @@ like-minded individuals and learning through collaboration.
 ### Connect with Me  
 
 - 📝 **Website**: [alemayehudesta.com](https://alemayehudesta.com)
-- 🗂️ **Portfolio**: [GitHub](https://github.com/Alemayehu-Desta)
 - 📫 **Email**: [alemayehu8363@gmail.com](mailto:alemayehu8363@gmail.com)
 - 🔗 **LinkedIn**: [LinkedIn](https://linkedin.com/in/alemayehu-desta)
 
 ---
 
-## GitHub Stats  
+### GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alemayehu-desta&show_icons=true&locale=en&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alemayehu-desta&show_icons=true&locale=en)  
