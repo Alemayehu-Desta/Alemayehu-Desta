@@ -1,7 +1,5 @@
 # Hi there👋, I'm Alemayehu Desta  
 
-## Data Analyst | Data Scientist in the Making  
-
 ---
 
 I am a Data Analyst with a background in Economic Analysis.  
