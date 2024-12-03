@@ -34,7 +34,6 @@ like-minded individuals and learning through collaboration.
 - 📫 **Email**: [alemayehu8363@gmail.com](mailto:alemayehu8363@gmail.com)
 - 🔗 **LinkedIn**: [LinkedIn](https://linkedin.com/in/alemayehu-desta)
 
-
 ---
 
 ### GitHub Stats  
