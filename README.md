@@ -6,9 +6,10 @@
 
 I am a Data Analyst with a background in Economic Analysis.  
 Currently, I am a proud participant in the **6th Cohort of the MIT Emerging  
-Talent Foundation Program**, where I’m sharpening my data science skills.  
-I am passionate about transforming raw data into actionable insights and  
-driving data-informed decisions.  
+Talent Foundation Program**.  
+
+I am sharpening my data science skills and am passionate about transforming  
+raw data into actionable insights and driving data-informed decisions.  
 
 When I’m not analyzing data, you’ll find me hiking, exploring nature, or  
 staying curious about emerging technologies. I also enjoy connecting with  
@@ -33,9 +34,9 @@ like-minded individuals and learning through collaboration.
 ### Connect with Me  
 
 - 📝 **Website**: [alemayehudesta.com](https://alemayehudesta.com)
-- 🗂️ **Portfolio**: [Alemayehu Desta](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)
+- 🗂️ **Portfolio**: [GitHub](https://github.com/Alemayehu-Desta)
 - 📫 **Email**: [alemayehu8363@gmail.com](mailto:alemayehu8363@gmail.com)
-- 🔗 **LinkedIn**: [Alemayehu Desta](https://www.linkedin.com/in/alemayehu-desta/)
+- 🔗 **LinkedIn**: [LinkedIn](https://linkedin.com/in/alemayehu-desta)
 
 ---
 
