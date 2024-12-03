@@ -32,11 +32,10 @@ like-minded individuals and learning through collaboration.
 
 ### Connect with Me  
 
-- 📝 **Website**: [alemayehudesta.com](https://alemayehudesta.com)  
-- 🗂️ **GitHub Portfolio**:  
-  [Alemayehu Desta](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)  
-- 📫 **Email**: [alemayehu8363@gmail.com](mailto:alemayehu8363@gmail.com)  
-- 🔗 **LinkedIn**: [Alemayehu Desta](https://www.linkedin.com/in/alemayehu-desta/)  
+- 📝 **Website**: [alemayehudesta.com](https://alemayehudesta.com)
+- 🗂️ **Portfolio**: [Alemayehu Desta](https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io)
+- 📫 **Email**: [alemayehu8363@gmail.com](mailto:alemayehu8363@gmail.com)
+- 🔗 **LinkedIn**: [Alemayehu Desta](https://www.linkedin.com/in/alemayehu-desta/)
 
 ---
 
