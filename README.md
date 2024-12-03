@@ -23,7 +23,7 @@ like-minded individuals and learning through collaboration.
   Python, R, SQL  
 
 - **Visualization**:  
-  [Tableau Desktop Specialist](https://www.credly.com/earner/earned/badge/d436c455-1f5a-4e5e-a8af-9f904d2ea1b2)
+  [Tableau Desktop Specialist](https://www.credly.com/earner/earned/badge/d436c455-1f5a-4e5e-a8af-9f904d2ea1b2),
   IBM Cognos  
 
 ---
